@@ -57,7 +57,7 @@ const Layout = () => {
     <Wrapper>
       <Menu>
         <MenuItem>
-          <Link to="/">
+          <Link to="/profile">
             <svg
               fill="none"
               strokeWidth={1.5}
@@ -75,7 +75,7 @@ const Layout = () => {
           </Link>
         </MenuItem>
         <MenuItem>
-          <Link to="/profile">
+          <Link to="/">
             <svg
               fill="currentColor"
               viewBox="0 0 20 20"
